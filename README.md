@@ -1,6 +1,6 @@
-### Hallo 
-Ini statistik GitHub saya saat ini dan senantiasa berkembang.<br>
-This is my current GitHub stat and will continue to grow.<br>
+### Hai
+Ini statistik GitHub saya saat ini dan senantiasa terus berkembang.<br>
+This is my current GitHub stat and will continue to grow to beyond.<br>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/RadBile2022">
