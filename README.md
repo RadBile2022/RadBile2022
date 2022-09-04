@@ -1,6 +1,6 @@
 ### Hallo 
-Ini statistik GitHub saya saat ini, dan akan terus berkembang.<br>
-These are my current GitHub stats, and will continue to grow.<br>
+Ini statistik GitHub saya saat ini dan senantiasa berkembang.<br>
+This is my current GitHub stat and will continue to grow.<br>
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/RadBile2022">
@@ -12,7 +12,8 @@ These are my current GitHub stats, and will continue to grow.<br>
 
 <div align="center">
     <img gravity="center" alt="Java" src="https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
+      <img gravity="center" alt="Intellij" src="https://img.shields.io/badge/intellij-%23039BE5.svg?style=for-the-badge&logo=intellij" />&nbsp;&nbsp;&nbsp;
     <img gravity="center" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img gravity="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img gravity="center" alt="Intellij" src="https://img.shields.io/badge/intellij-%23039BE5.svg?style=for-the-badge&logo=intellij" />
+    <img gravity="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+
 </div>
